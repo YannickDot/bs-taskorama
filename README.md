@@ -1,18 +1,5 @@
-# Basic Reason Template
+# bs-taskorama
 
-Hello! This project allows you to quickly get started with Reason and BuckleScript. If you wanted a more sophisticated version, try the `react` template (`bsb -theme react -init .`).
+bs-taskorama is a port of [Taskorama](https://github.com/YannickDot/Taskorama) to ReasonML.
 
-# Build
-```
-npm run build
-```
-
-# Build + Watch
-
-```
-npm run watch
-```
-
-
-# Editor
-If you use `vscode`, Press `Windows + Shift + B` it will build automatically
+![example](./screenshot.png)
