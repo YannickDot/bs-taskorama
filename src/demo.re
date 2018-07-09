@@ -13,4 +13,4 @@ let myTask: task(error(string), int) =
 let stop = myTask |> fork(Js.log, Js.log);
 
 /* Stop the execution after 1.5s */
-Js.Global.setTimeout(_ => stop(), 1500);
+/* Js.Global.setTimeout(_ => stop(), 1500); */

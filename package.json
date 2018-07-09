@@ -6,9 +6,7 @@
     "start": "bsb -make-world -w",
     "clean": "bsb -clean-world"
   },
-  "keywords": [
-    "BuckleScript"
-  ],
+  "keywords": ["BuckleScript"],
   "author": "",
   "license": "MIT",
   "devDependencies": {
